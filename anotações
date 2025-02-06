@@ -1,5 +1,19 @@
+funções de strings
+
 quais as diferenças e/ou para que usar e quando usar -> if, for, while, foreach, function
 
 parametros por valor X por referencia(aula mencionada -> function)
 
 funções recursivas
+
+parametro isset para variaveis, para verificar se difere de null
+
+função date() 
+
+função Time()
+
+timestamp = é o contador universal, o momento que começou contar o "tempo"
+
+setLocale
+
+DateTime() // add() // DateInterval
