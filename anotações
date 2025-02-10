@@ -17,3 +17,28 @@ timestamp = é o contador universal, o momento que começou contar o "tempo"
 setLocale
 
 DateTime() // add() // DateInterval
+
+orientação a objetos -> entender os conceitos e aplicar os conceitos aprendidos
+.
+o que é uma classe -> imagine que ela é uma caixa ou igual a uma escola onde para estudar portugues deve se dirigir para a classe de portugues.
+.
+o que é um atributo -> é igual a uma variavel QUE GANHA MAIS RECURSO
+.
+o que é encapsulamento -> é a permissão, atributo privado
+.
+funções da classe é metodo
+.
+resumidamente uma classe é um conjunto de atributos e metodos.
+.
+para usar a classe necessitamos de uma instancia!
+.
+o que é um objeto dentro da classe -> o objeto nada mais é quem representa ou uma cópia da classe
+.
+$SQL = new SLQ
+.
+O QUE É UM OBJETO ==> É UMA VARIAVEL QUE REPRESENTA UMA CLASSE //INSTANCIA
+.
+o que é herança?
+.
+o que é metodo construtor?
+.
