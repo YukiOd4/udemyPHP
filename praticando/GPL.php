@@ -1,4 +1,16 @@
 <?php 
+/*Exercício 1: Gerenciamento de Produtos em uma Loja Virtual
+Cenário: Você está desenvolvendo um sistema para gerenciar produtos em uma loja virtual. Cada produto deve ter um ID, nome, descrição, preço e quantidade em estoque.
+
+Tarefas:
+
+1.Crie uma classe Produto com as propriedades mencionadas (ID, nome, descrição, preço e quantidade).
+
+2.Implemente os métodos para adicionar, editar e excluir produtos.
+
+3.Crie uma função para exibir a lista de produtos.
+
+4.Teste sua classe criando objetos de produto e manipulando-os.*/
 
 class Produto{
 	//inicio definição de classes
